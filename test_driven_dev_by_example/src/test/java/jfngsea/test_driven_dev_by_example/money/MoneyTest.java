@@ -1,5 +1,9 @@
-package jfngsea.test_driven_dev_by_example;
+package jfngsea.test_driven_dev_by_example.money;
 
+import jfngsea.test_driven_dev_by_example.money.Bank;
+import jfngsea.test_driven_dev_by_example.money.Expression;
+import jfngsea.test_driven_dev_by_example.money.Money;
+import jfngsea.test_driven_dev_by_example.money.Sum;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

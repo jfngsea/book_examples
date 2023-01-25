@@ -1,4 +1,4 @@
-package jfngsea.test_driven_dev_by_example;
+package jfngsea.test_driven_dev_by_example.money;
 
 public class  Money implements Expression{
     protected int amount;
